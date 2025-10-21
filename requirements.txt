@@ -13,3 +13,5 @@ numpy
 pandas
 matplotlib
 plotly
+langchain
+streamlit
