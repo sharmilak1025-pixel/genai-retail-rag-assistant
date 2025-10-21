@@ -1,0 +1,14 @@
+transformers
+sentence-transformers
+langchain
+faiss-cpu
+PyPDF2
+pdfminer.six
+streamlit
+tqdm
+numpy
+pandas
+matplotlib
+plotly
+langchain-community
+langchain-core
