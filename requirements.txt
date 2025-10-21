@@ -1,5 +1,9 @@
 streamlit>=1.28.0
 langchain==0.1.13
-faiss-cpu==1.7.4
+langchain-community
+langchain-core
+faiss-cpu==1.12.0
 transformers==4.36.0
 sentence-transformers==2.2.2
+huggingface_hub
+torch==2.9.0
